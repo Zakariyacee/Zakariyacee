@@ -2,7 +2,7 @@
 
 **Im a Software Developer**
 
-
+- 🏠 I'm currently based in Leeds, England
 - 👀 I’m working on Javascript, Reactjs and Nextjs
 - 🌱 I’m currently learning Next.js
 - 💞️ I’m looking to collaborate with others on Reactjs and Nextjs
