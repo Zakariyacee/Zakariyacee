@@ -32,10 +32,6 @@ projects.
 <img src="https://github.com/Zakariyacee/Zakariyacee/assets/103787498/56b2ec99-60b2-46ed-a304-932e2b441710"  height="36" max-width="100%"/>
 
 
-## 📈 The Stats
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Zakariyacee&layout=compact"/>
-
 
 
 ## Socials
