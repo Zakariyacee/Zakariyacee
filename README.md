@@ -1,6 +1,6 @@
-👋 Hi, I’m Zakariya
+# Hi, I’m Zakariya 👋
 
-Im a Software Developer
+**Im a Software Developer**
 
 - 👀 I’m working on Javascript, Reactjs and Nextjs
 - 🌱 I’m currently learning Next.js
