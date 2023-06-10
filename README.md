@@ -32,20 +32,13 @@ projects.
 <img src="https://github.com/Zakariyacee/Zakariyacee/assets/103787498/56b2ec99-60b2-46ed-a304-932e2b441710"  height="36" max-width="100%"/>
 
 
-**📈 The Stats**
-
-
-
+## 📈 The Stats
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Zakariyacee&layout=compact"/>
 
 
 
-**Socials**
-
-
-
-
+## Socials
 
 <a href="https://www.linkedin.com/in/zakariyaaden/">
     <img width="32" height="32" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>
